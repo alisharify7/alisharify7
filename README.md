@@ -1,11 +1,11 @@
-# 𝗛𝗲𝗹𝗹𝗼 world ##🌏 ！ 
+# 𝗛𝗲𝗹𝗹𝗼 world 🌏 ！ 
 
-**I'm [ali sharify](https://github.com/alisharifyy)！. I'm  a web developer and a c lover 👨‍💻 and love to learn more about computers**
+**I'm [ali sharify](https://github.com/alisharifyy)！**
+** a Web Developer and a c lover and love to Learn More About Computers
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/alisharify7)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:alisharifyoffcial@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ali._.sharify/)](https://instagram.com/ali._.sharify)
-[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://instagram.com/ali._.sharify)](https://github.com/alisharifyy)
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:alisharifyoffcial@gmail.com)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alisharifyy)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=alisharifyy&show_icons=true&hide_border=true">
