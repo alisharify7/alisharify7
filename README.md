@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 world！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
+# 𝗛𝗲𝗹𝗹𝗼 world 🌏 ！ 
 
 **I'm [ali sharify](https://github.com/alisharifyy)！. I'm  a web developer and a c lover 👨‍💻 and love to learn more about computers**
 
