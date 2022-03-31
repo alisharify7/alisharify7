@@ -22,9 +22,8 @@
 
 ## 🧐 about this user
 
-- 👨‍💻love the Network and web development 
--  love books about programming and network 
-- :book:
+- 👨‍💻 This User love the Network and Web
+- :book: Love The Reading book about computers and network
 
 
 
