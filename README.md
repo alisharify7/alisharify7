@@ -23,7 +23,7 @@
 ## 🧐 about this user
 
 - 👨‍💻 This User love the Network and Web
-- :book: Love The Reading book about computers and network
+- :book: Love The Reading Books about Computers and Network
 
 
 
