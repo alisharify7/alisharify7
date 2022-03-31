@@ -21,10 +21,11 @@
         <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 </div>
 
-## 🧐 about this user
+## 🧐 About This User
 
-- 👨‍💻 This User love the Network and Web
-- :book: Love The Reading Books about Computers and Network
+- 👨‍💻 This User love the Network and Web's Worls
+- :books: He loves reading books about networking and computers 
+- if you know good book about this topics if you want can send name of the book in emai :)
 
 
 
