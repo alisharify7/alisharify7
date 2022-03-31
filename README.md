@@ -1,7 +1,7 @@
 # 𝗛𝗲𝗹𝗹𝗼 world 🌏 ！ 
 
 **I'm [ali sharify](https://github.com/alisharifyy) ！**
-"""a Web Developer and a c lover and love to Learn More About Computers"""
+###a Web Developer and a c lover and love to Learn More About Computers### 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/alisharify7)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/ali._.sharify/)](https://instagram.com/ali._.sharify)
