@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 world 🌏 ！ 
 
-**I'm [ali sharify](https://github.com/alisharifyy) ！**
+*I'm [ali sharify](https://github.com/alisharifyy) ！*
 
 #### Just a Simple Web Developer  #### 
 
