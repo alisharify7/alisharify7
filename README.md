@@ -5,10 +5,8 @@
 #### Just a Simple Web Developer  #### 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisharifyy&layout=compact&theme=dracula)](https://github.com/alisharifyy/github-readme-stats)
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=alisharifyy&show_icons=true&hide_border=true">
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisharifyy&layout=compact&theme=dracula)](https://github.com/alisharifyy/github-readme-stats)
 
 
 ## tools and languages 
