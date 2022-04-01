@@ -4,6 +4,10 @@
 
 #### Just a Simple Web Developer  #### 
 
+[![alisharifyy GitHub stats](https://github-readme-stats.vercel.app/api?username=alisharifyy&hide=contribs,prs&count_private=true&show_icons=true&theme=dracula)](https://github.com/alisharifyy/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisharifyy&layout=compact&theme=dracula)](https://github.com/alisharifyy/github-readme-stats)
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=alisharifyy&show_icons=true&hide_border=true">
 
