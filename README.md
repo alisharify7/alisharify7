@@ -18,7 +18,7 @@
         <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 </div>
 
-## 🧐 About This User
+## About This User
 
 - 👨‍💻 This User love the Network and Web's Worls
 - :books: He loves Reading Books About Networking And Computers 
