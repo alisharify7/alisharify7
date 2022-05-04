@@ -33,5 +33,4 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alisharifyy)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisharifyy&layout=compact&theme=dracula)](https://github.com/alisharifyy/github-readme-stats)
 
