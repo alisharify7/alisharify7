@@ -5,8 +5,10 @@
 #### Just a Simple Web Developer  #### 
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=alisharifyy&show_icons=true&hide_border=true">
+[![alisharify's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alisharifyy&show_icons=true&include_all_commits=true&theme=tokyonight&count_private=true&line_height=40&cache_seconds=10800)](https://github.com/alisharifyyalisharifyy)
+[![alisharify' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisharifyy&langs_count=5&theme=tokyonight&cache_seconds=10800)](https://github.com/alisharifyy/alisharifyy)
 
+![](https://komarev.com/ghpvc/?username=alisharifyy)
 
 ## tools and languages 
 
