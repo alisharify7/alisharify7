@@ -18,7 +18,7 @@
         <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
         <code><img height="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
         <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"></code>
-        <code><img height="40" src="https://ramtiin.ir/wp-content/uploads/2021/10/CompTIA-Network-ramtiin.ir_.jpgg"></code>
+        <code><img height="40" src="https://ramtiin.ir/wp-content/uploads/2021/10/CompTIA-Network-ramtiin.ir_.jpg"></code>
 
 </div>
 
