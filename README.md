@@ -9,7 +9,7 @@
 [![ali sharify' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisharifyy&langs_count=5&theme=tokyonight&cache_seconds=10800)](https://github.com/alisharifyy)
 
 
-## Skill's 
+## > Skill's :
 
 <div>
         <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
