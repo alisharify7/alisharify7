@@ -9,7 +9,7 @@
 [![ali sharify' Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisharifyy&langs_count=5&theme=tokyonight&cache_seconds=10800)](https://github.com/alisharifyy)
 
 
-## tools and languages 
+## Skill's 
 
 <div>
         <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -17,7 +17,9 @@
         <code><img height="30" src="https://naysan.ca/wp-content/uploads/2020/10/flask_banner.png"></code>
         <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
         <code><img height="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
-                <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"></code>
+        <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"></code>
+        <code><img height="40" src="https://cynetco.com/wp-content/uploads/CompTIA-Network-Certification.jpg"></code>
+
 </div>
 
 ## About This User
