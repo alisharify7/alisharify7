@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 world 🌏 ！ 
+# 𝗛𝗲𝗹𝗹𝗼 <b>world</b> 🌏 ！ 
 
 *I'm [ali sharify](https://github.com/alisharifyy) ！*
 
@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alisharifyy&show_icons=true&line_height=30&count_private=true&title_color=6aa6f8&text_color=FFFFFF&icon_color=6aa6f8&bg_color=22272e" alt="calisharifyy's GitHub Stats" />
 </a>
 
-<a style='margin-top:15px;' href="https://github.com/alisharifyy">
+<a style='margin:15px;' href="https://github.com/alisharifyy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisharifyy&title_color=6aa6f8&text_color=FFFFFF&icon_color=6aa6f8&bg_color=22272e" alt="ali sharify's GitHub Stats" />
 </a>
 
