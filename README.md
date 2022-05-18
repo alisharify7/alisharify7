@@ -6,7 +6,7 @@
 
 
 
-<img width='25px' height='35px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
+<img width='250px' height='150px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
 
 
 <a href="https://github.com/CodeWithEmad/CodeWithEmad">
