@@ -6,14 +6,14 @@
 
 
 
-<img width='450px' height='250px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
+<img width='450px' height='300px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
 
 
-<a href="https://github.com/CodeWithEmad/CodeWithEmad">
+<a href="https://github.com/alisharifyy">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisharifyy&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ali sharify's GitHub Stats" />
 </a>
 
-<a href="https://github.com/CodeWithEmad/CodeWithEmad">
+<a href="https://github.com/alisharifyy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alisharifyy&show_icons=true&line_height=30&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="calisharifyy's GitHub Stats" />
 </a>
 
