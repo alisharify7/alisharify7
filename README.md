@@ -21,6 +21,16 @@
 
 </div>
 
+<a href="https://github.com/CodeWithEmad/CodeWithEmad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisharifyy&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ali sharify's GitHub Stats" />
+</a>
+
+<a href="https://github.com/CodeWithEmad/CodeWithEmad">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alisharifyy&show_icons=true&line_height=30&count_private=true&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="calisharifyy's GitHub Stats" />
+</a>
+
+
+
 ## About This User
 
 - 👨‍💻 This User love the Network and Web's Worls
