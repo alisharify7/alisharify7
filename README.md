@@ -20,7 +20,7 @@
 
 <img width='650px' height='400px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
 
-[![ali sharify GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alisharifyy&bg_color=22272e&title_color=FFFFFF&text_color=FFFFFF&icon_color=6aa6f8)](https://git.io/praveenscience)
+[![ali sharify GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alisharifyy&bg_color=22272e&title_color=FFFFFF&text_color=FFFFFF)](https://git.io/praveenscience)
 
 
 <a href="https://github.com/alisharifyy">
