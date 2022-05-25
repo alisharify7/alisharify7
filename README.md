@@ -8,6 +8,8 @@
 
 <img width='650px' height='400px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
 
+[![ali sharify GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alisharifyy&theme=redical)](https://git.io/praveenscience)
+
 
 <a href="https://github.com/alisharifyy">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=alisharifyy&show_icons=true&line_height=30&count_private=true&title_color=6aa6f8&text_color=FFFFFF&icon_color=6aa6f8&bg_color=22272e" alt="calisharifyy's GitHub Stats" />
