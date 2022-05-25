@@ -8,7 +8,7 @@
 
 <img width='650px' height='400px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
 
-[![ali sharify GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alisharifyy)](https://git.io/praveenscience)
+[![ali sharify GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alisharifyy&bg_color=22272e)](https://git.io/praveenscience)
 
 
 <a href="https://github.com/alisharifyy">
