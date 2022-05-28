@@ -43,3 +43,5 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:alisharifyoffcial@gmail.com)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alisharifyy)
 
+
+![snake gif](https://github.com/alisharifyy/alisharifyy/blob/output/github-contribution-grid-snake.gif)
