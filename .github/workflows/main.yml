@@ -3,6 +3,10 @@ name: Generate Snake
 # Controls when the action will run. This action runs every 6 hours.
 
 on:
+  push:
+  
+    branches: [main]
+    
   schedule:
       # every 6 hours
     - cron: "0 */6 * * *"
@@ -21,13 +25,13 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
+      - uses: alisharifyy
 
     # Generates the snake  
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: alisharifyy
+          github_user_name: ${{ github.repository_owner }}
           # these next 2 lines generate the files on a branch called "output". This keeps the main branch from cluttering up.
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
@@ -49,4 +53,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}      
+
