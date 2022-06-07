@@ -25,7 +25,7 @@ jobs:
     steps:
 
     # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: alisharifyy
+      - uses: actions/checkout@v2
 
     # Generates the snake  
       - uses: Platane/snk@master
