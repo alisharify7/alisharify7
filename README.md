@@ -20,14 +20,14 @@
 
 <img width='650px' height='400px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
 
-[![ali sharify GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alisharifyy&bg_color=22272e&title_color=FFFFFF&text_color=FFFFFF)](https://git.io/praveenscience)
+[![ali sharify GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alisharify7&bg_color=22272e&title_color=FFFFFF&text_color=FFFFFF)](https://git.io/praveenscience)
 
 
-<a href="https://github.com/alisharifyy">
+<a href="https://github.com/alisharify7">
   <img  src="https://github-readme-stats.vercel.app/api?username=alisharifyy&show_icons=true&line_height=30&count_private=true&title_color=ab72c0&text_color=ab72c0&icon_color=6aa6f8&bg_color=22272e" alt="calisharifyy's GitHub Stats" />
 </a>
 
-<a href="https://github.com/alisharifyy">
+<a href="https://github.com/alisharify7">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisharifyy&title_color=ab72c0&text_color=ab72c0&icon_color=6aa6f8&bg_color=22272e" alt="ali sharify's GitHub Stats" />
 </a>
 
