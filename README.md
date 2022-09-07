@@ -4,7 +4,7 @@
 
 #### Just a Simple Web Developer  #### 
 
-[![Spotify](https://spotifnow.vercel.app/api/spotify)](https://open.spotify.com/user/31okyqhr3spkahtwqmv5i7opem5e
+[![Spotify](https://spotifnow.vercel.app/api/spotify)](https://open.spotify.com/user/alisharify
 )
 
 
