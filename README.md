@@ -16,10 +16,10 @@
  
   <code><img height="50" src="https://lenguajecss.com/assets/logo.svg"></code>
   <code><img height="50" src="http://soud.ir/filemanager/photos/shares/Armin%20zarei/1216733.png"></code>
-  <code><img height="50" src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"></code>  
-<code><img height="40" src="https://naysan.ca/wp-content/uploads/2020/10/flask_banner.png"></code> 
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="50" src="[https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png)"></code>
+  <code><img height="50"        src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"></code>  
+    <code><img height="40" src="https://naysan.ca/wp-content/uploads/2020/10/flask_banner.png"></code> 
+    <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+    <code><img height="50" src=" (https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png)"></code>
   
 <code><img height="45" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png"></code>
 <code><img height="40"                                                     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png">   </code>
