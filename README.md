@@ -7,11 +7,10 @@
 ### 🎧 Spotify
 [![Spotify](https://spotifnow.vercel.app/api/spotify)](https://open.spotify.com/user/31okyqhr3spkahtwqmv5i7opem5e)
 
+---
 
 ## Skill's And Tools :
-
 <div>
- 
 <code><img height="50" src="https://lenguajecss.com/assets/logo.svg"></code>
 <code><img height="50" src="http://soud.ir/filemanager/photos/shares/Armin%20zarei/1216733.png"></code>
 <code><img height="50" src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"></code>  
@@ -29,7 +28,6 @@
 <img width='650px' height='400px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
 
 [![ali sharify GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alisharify7&bg_color=22272e&title_color=FFFFFF&text_color=FFFFFF)](https://git.io/praveenscience)
-
 
 <a href="https://github.com/alisharify7">
   <img  src="https://github-readme-stats.vercel.app/api?username=alisharify7&show_icons=true&line_height=30&count_private=true&title_color=ab72c0&text_color=ab72c0&icon_color=6aa6f8&bg_color=22272e" alt="calisharifyy's GitHub Stats" />
