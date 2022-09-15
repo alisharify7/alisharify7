@@ -2,10 +2,7 @@
 
 *I'm [ali sharify](https://github.com/alisharify7) ！*
 
-#### Just a Simple Web Developer  #### 
-
-
-<a href="https://www.twitter.com/alisharify7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/alisharify7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.github.com/alisharify7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/alisharify7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+#### Just a Simple Web Developer  
 
 ---
 
@@ -50,5 +47,6 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:alisharifyoffcial@gmail.com)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alisharifyy)
 
+<a href="https://www.twitter.com/alisharify7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/alisharify7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.github.com/alisharify7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/alisharify7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ![snake gif](https://github.com/alisharifyy/alisharifyy/blob/output/github-contribution-grid-snake.gif)
