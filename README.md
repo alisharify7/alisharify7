@@ -4,8 +4,8 @@
 
 #### Just a Simple Web Developer  #### 
 
-### 🎧 Spotify
-[![Spotify](https://spotifnow.vercel.app/api/spotify)](https://open.spotify.com/user/31okyqhr3spkahtwqmv5i7opem5e)
+
+<a href="https://www.twitter.com/alisharify7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/alisharify7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.github.com/alisharify7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/alisharify7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ---
 
