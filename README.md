@@ -8,8 +8,9 @@
 
 ## Skill's And Tools :
 <div>
+  
 <code>
-<img height="50" src="https://github.com/alisharify7/alisharify7/blob/main/doc-img/javascript-39396.png">
+<img width="150" src="https://github.com/alisharify7/alisharify7/blob/main/doc-img/javascript-39396.png">
 </code>
 
   
