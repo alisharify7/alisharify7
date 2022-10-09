@@ -11,7 +11,7 @@
 <code><img  height="50" src="https://lenguajecss.com/assets/logo.svg"></code>
 <code><img  height="50" src="http://soud.ir/filemanager/photos/shares/Armin%20zarei/1216733.png"></code>
 
-  <img style="margin=0 10px;" height="50" src="https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo_0.png">
+  <code  style="margin=0 10px;"><img height="50" src="https://cms.rootstack.com/sites/default/files/inline-images/javascript%20logo_0.png"></code>
 
 <code><img height="50" src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"></code>  
 <code><img height="40" src="https://naysan.ca/wp-content/uploads/2020/10/flask_banner.png"></code> 
