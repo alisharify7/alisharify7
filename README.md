@@ -27,15 +27,10 @@
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
 <code><img height="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>   
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"></code>    
-
-  <code><img height="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"></code>    
-
-
-
+<code><img height="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"></code>    
 <code><img height="40" src="https://www.jodayn.com/wp-content/uploads/2018/05/0009087_course-comptia-network-v6-n10-006-1.jpeg"></code>
 </div>
 <br>
-
 <img width='650px' height='400px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
 
 [![ali sharify GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alisharify7&bg_color=22272e&title_color=FFFFFF&text_color=FFFFFF)](https://git.io/praveenscience)
