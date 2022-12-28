@@ -35,6 +35,9 @@
 
 [![ali sharify GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alisharify7&bg_color=22272e&title_color=FFFFFF&text_color=FFFFFF)](https://git.io/praveenscience)
 
+[![Alisharify's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alisharify7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 <a href="https://github.com/alisharify7">
   <img  src="https://github-readme-stats.vercel.app/api?username=alisharify7&show_icons=true&line_height=30&count_private=true&title_color=ab72c0&text_color=ab72c0&icon_color=6aa6f8&bg_color=22272e" alt="calisharifyy's GitHub Stats" />
 </a>
