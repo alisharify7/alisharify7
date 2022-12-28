@@ -33,7 +33,7 @@
 <br>
 <img width='650px' height='400px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
 
-[![Alisharify's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alisharify7)](https://github.com/alisharify7)
+[![Alisharify's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alisharify7&theme=github-compact	)](https://github.com/alisharify7)
 
 
 <a href="https://github.com/alisharify7">
