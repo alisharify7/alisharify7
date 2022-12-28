@@ -33,9 +33,7 @@
 <br>
 <img width='650px' height='400px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
 
-[![ali sharify GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=alisharify7&bg_color=22272e&title_color=FFFFFF&text_color=FFFFFF)](https://git.io/praveenscience)
-
-[![Alisharify's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alisharify7)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Alisharify's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alisharify7)](https://github.com/alisharify7)
 
 
 <a href="https://github.com/alisharify7">
