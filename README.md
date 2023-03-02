@@ -29,6 +29,7 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"></code>    
 <code><img height="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"></code>    
 <code><img height="40" src="https://www.jodayn.com/wp-content/uploads/2018/05/0009087_course-comptia-network-v6-n10-006-1.jpeg"></code>
+<code><img height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png"></code>
 </div>
 <br>
 <img width='650px' height='400px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
