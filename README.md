@@ -35,6 +35,8 @@
 
 [![Alisharify's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=alisharify7&theme=github-compact	)](https://github.com/alisharify7)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisharify7&hide_progress=true)](https://github.com/alisharify7)
+
 
 <a href="https://github.com/alisharify7">
   <img  src="https://github-readme-stats.vercel.app/api?username=alisharify7&show_icons=true&line_height=30&count_private=true&title_color=ab72c0&text_color=ab72c0&icon_color=6aa6f8&bg_color=22272e" alt="calisharifyy's GitHub Stats" />
