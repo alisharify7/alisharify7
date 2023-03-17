@@ -45,9 +45,6 @@
 </a>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisharify7&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## About This User
 
 - 👨‍💻 This User love the Network and Web's Worls
