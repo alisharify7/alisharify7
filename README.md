@@ -21,6 +21,7 @@
 </code>
 <code><img height="50" src="https://camo.githubusercontent.com/bec2c92468d081617cb3145a8f3d8103e268bca400f6169c3a68dc66e05c971e/68747470733a2f2f76352e676574626f6f7473747261702e636f6d2f646f63732f352e302f6173736574732f6272616e642f626f6f7473747261702d6c6f676f2d736861646f772e706e67"></code>  
 <code><img height="40" src="https://naysan.ca/wp-content/uploads/2020/10/flask_banner.png"></code> 
+<code><img height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/1200px-Python.svg.png"></code> 
 <code><img height="50" src="https://www.britefish.net/wp-content/uploads/2019/07/logo-c-1.png"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/C_Sharp_wordmark.svg/1200px-C_Sharp_wordmark.svg.png"></code>
@@ -29,7 +30,6 @@
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png"></code>    
 <code><img height="40" src="https://www.freepnglogos.com/uploads/logo-mysql-png/logo-mysql-mysql-logo-png-images-are-download-crazypng-21.png"></code>    
 <code><img height="40" src="https://www.jodayn.com/wp-content/uploads/2018/05/0009087_course-comptia-network-v6-n10-006-1.jpeg"></code>
-<code><img height="40" src="https://static.djangoproject.com/img/logos/django-logo-negative.1d528e2cb5fb.png"></code>
 </div>
 <br>
 <img width='650px' height='400px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
