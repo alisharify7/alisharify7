@@ -34,7 +34,7 @@
 <br>
 <img width='650px' height='400px' src='https://raw.githubusercontent.com/CodeWithEmad/CodeWithEmad/main/code.gif' >
 
-[![alisharify's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alisharify7&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![alisharify's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alisharify7&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <a href="https://github.com/alisharify7">
