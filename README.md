@@ -48,7 +48,7 @@
 
 ## About This User
 
-- 👨‍💻 This User love the Network and Web's Worls
+- 👨‍💻 This User love the Network and web worlds
 - :books: He loves Reading Books About Networking And Computers 
 - if you know good book about this topics if you want can send name of the book in emai :)
 
