@@ -39,7 +39,7 @@
 
   
 <code>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg">
+<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg">
 </code>  
 
 <code>
@@ -52,7 +52,7 @@
 
 
 <code>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg">
+<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg">
 </code>  
 
 ---
