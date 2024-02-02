@@ -43,6 +43,14 @@
 </code>  
 
 <code>
+<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg">
+</code> 
+
+<code>
+<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg">
+</code> 
+
+<code>
 <img width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">
 </code>  
 
