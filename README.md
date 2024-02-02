@@ -49,7 +49,7 @@
 
 - 👨‍💻 This User love the Network and web worlds
 - :books: He loves Reading Books About Networking And Computers 
-- if you know good book about this topics if you want can send name of the book in emai :)
+
 
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/alisharify7)
