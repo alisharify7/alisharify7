@@ -52,6 +52,9 @@
 
 
 
+
+[![Twitter Badge](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg)]([https://twitter.com/alisharify7](https://stackoverflow.com/users/19970335/alisharify))
+
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/alisharify7)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:alisharifyoffcial@gmail.com)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=alisharifyy)
