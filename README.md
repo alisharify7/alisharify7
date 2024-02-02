@@ -76,7 +76,7 @@
 </span>  
 
 <span>
-<img style="background-color:white" width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/flask/flask-original.svg">
+<img  width="55" src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png">
 </span>  
 
 
