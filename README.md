@@ -4,9 +4,18 @@
 
 #### Just a Simple Web Developer  
 
+
+## About This User
+
+- 👨‍💻 This User love the Network and web worlds
+- :books: He loves Reading Books About Networking And Computers 
+
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:alisharifyoffcial@gmail.com)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=alisharify7)
+
+
 ---
 ### social 
-
 <a href="https://twitter.com/alisharify7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="45" width="45" /></a>
 
 <a href="https://ir.linkedin.com/in/ali-sharify-b31422249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi-gholami-a0a375219" height="45" width="45" /></a>
@@ -50,7 +59,7 @@
 
 
 <a href="https://github.com/alisharify7">
-  <img  src="https://github-readme-stats.vercel.app/api?username=alisharify7&show_icons=true&line_height=30&count_private=true&title_color=ab72c0&text_color=ab72c0&icon_color=6aa6f8&bg_color=22272e" alt="calisharifyy's GitHub Stats" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=alisharify7&show_icons=true&line_height=30&count_private=true&title_color=ab72c0&text_color=ab72c0&icon_color=6aa6f8&bg_color=22272e" alt="ali sharify's GitHub Stats" />
 </a>
 
 <a href="https://github.com/alisharify7">
@@ -58,17 +67,7 @@
 </a>
 
 
-## About This User
-
-- 👨‍💻 This User love the Network and web worlds
-- :books: He loves Reading Books About Networking And Computers 
 
 
-
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/Yaronzz)](https://twitter.com/alisharify7)
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:alisharifyoffcial@gmail.com)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alisharifyy)
-
-<a href="https://www.twitter.com/alisharify7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/alisharify7?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"/></a><a href="https://www.github.com/alisharify7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/alisharify7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ![snake gif](https://github.com/alisharifyy/alisharifyy/blob/output/github-contribution-grid-snake.gif)
