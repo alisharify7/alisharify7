@@ -104,6 +104,11 @@
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg">
 </span>  
 
+
+<span>
+<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain.svg">
+</span>  
+
 ---
 
 [![alisharify's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alisharify7&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
