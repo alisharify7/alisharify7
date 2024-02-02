@@ -16,15 +16,15 @@
 
 ---
 ### social 
-<div style="display:flex">
-<a href="https://twitter.com/alisharify7" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="45" width="45" /></a>
+<p>
+<a href="https://twitter.com/alisharify7" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="35" width="35" /></a>
 
-<a href="https://ir.linkedin.com/in/ali-sharify-b31422249" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi-gholami-a0a375219" height="45" width="45" /></a>
+<a href="https://ir.linkedin.com/in/ali-sharify-b31422249" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehdi-gholami-a0a375219" height="35" width="35" /></a>
 
-<a href="https://stackoverflow.com/users/19970335/alisharify" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20015779" height="45" width="45" /></a>
+<a href="https://stackoverflow.com/users/19970335/alisharify" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20015779" height="35" width="35" /></a>
 
-<a href="https://instagram.com/ali.sharify.7" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="45" width="45" /></a>
-</div>
+<a href="https://instagram.com/ali.sharify.7" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="35" width="35" /></a>
+</p>
 
 
 ---
