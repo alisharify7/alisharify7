@@ -38,71 +38,71 @@
 ## Skill's And Tools :
 
   
-<code>
+<span>
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg">
-</code>  
+</span>  
 
-<code>
+<span>
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg">
-</code> 
+</span> 
 
-<code>
+<span>
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg">
-</code> 
+</span> 
 
-<code>
+<span>
 <img width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">
-</code>  
+</span>  
 
 
-<code>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg">
-</code>  
+<span>
+<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vsspan/vsspan-original.svg">
+</span>  
 
-<code>
+<span>
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg">
-</code>  
+</span>  
 
-<code>
+<span>
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg">
-</code>  
+</span>  
 
-<code>
+<span>
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg">
-</code>  
+</span>  
 
-<code>
+<span>
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg">
-</code>  
+</span>  
 
-<code>
+<span>
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/flask/flask-original.svg">
-</code>  
+</span>  
 
 
-<code>
+<span>
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain.svg">
-</code>  
+</span>  
 
-<code>
+<span>
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original.svg">
-</code>  
+</span>  
 
-<code>
+<span>
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlalchemy/sqlalchemy-original.svg">
-</code>  
+</span>  
 
-<code>
+<span>
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg">
-</code>  
+</span>  
 
-<code>
+<span>
 <img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redis/redis-original.svg">
-</code>  
+</span>  
 
-<code>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg">
-</code>  
+<span>
+<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vsspan/vsspan-original.svg">
+</span>  
 
 ---
 
