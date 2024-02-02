@@ -46,8 +46,7 @@
  --> 
   
 <code>
-<img width="45" src="[https://github.com/alisharify7/alisharify7/blob/main/doc-img/javascript-39396.png](https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg
-)">
+<img width="45" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original-wordmark.svg">
 </code>  
 
 
