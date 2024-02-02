@@ -76,7 +76,7 @@
 </span>  
 
 <span>
-<img  width="95" src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png">
+<img  width="145" src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png">
 </span>  
 
 
