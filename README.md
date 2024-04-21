@@ -117,6 +117,6 @@
 </a>
 
 <a href="https://github.com/alisharify7">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisharify7&hide=html&langs_count=50&title_color=ab72c0&text_color=ab72c0&icon_color=6aa6f8&bg_color=22272e" alt="ali sharify's GitHub Stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=alisharify7&hide=&langs_count=50&title_color=ab72c0&text_color=ab72c0&icon_color=6aa6f8&bg_color=22272e" alt="ali sharify's GitHub Stats" />
 </a>
 
