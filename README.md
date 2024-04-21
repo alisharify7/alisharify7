@@ -11,7 +11,8 @@
 - :books: He loves Reading Books About Networking And Computers 
 
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:alisharifyoffcial@gmail.com)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=alisharify7)
+
+![visitors](https://komarev.com/ghpvc/?username=alisharify7gh&label=Profile%20views&color=0e75b6&style=flat)
 
 
 ---
