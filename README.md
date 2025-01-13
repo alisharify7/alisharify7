@@ -47,14 +47,6 @@ strongly do some awesome open source projects in #free-developers org (<a href="
 </span>  
 
 <span>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg">
-</span> 
-
-<span>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/csharp/csharp-original.svg">
-</span> 
-
-<span>
 <img width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">
 </span>  
 
