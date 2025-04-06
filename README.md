@@ -2,6 +2,8 @@
 
 I’m a passionate **Software Engineering student** and **Software Developer** with a strong focus on **Web Development**. I love working with a variety of tools and technologies, and I’m always striving to expand my knowledge and dive deeper into different fields.
 
+I’m working on exciting projects that you can find on my [GitHub: alisharify7](https://github.com/alisharify7), and I’m actively contributing to open-source projects through the **[#free-programmers](https://github.com/free-programmers)** organization.
+
 ## 💡 Interests
 - **Cloud Computing**
 - **Distributed Systems**
