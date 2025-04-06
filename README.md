@@ -19,88 +19,26 @@ strongly do some awesome open source projects in #free-developers org (<a href="
 
 
 ---
-### Social Media:
-<span>
-<a href="https://twitter.com/alisharify7" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="35" /></a>
-</span>
-
-<span>
-<a href="https://ir.linkedin.com/in/ali-sharify-b31422249?trk=people-guest_people_search-card" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="35" /></a>
-</span>
-
-<span>
-<a href="https://stackoverflow.com/users/19970335/alisharify" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20015779" height="30" width="35" /></a>
-</span>
-
-<span>
-<a href="https://instagram.com/ali.sharify.7" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"  height="30" width="35" /></a>
-</<span>
-
-
----
 
 ## Skill's And Tools :
 
-  
-<span>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg">
-</span>  
+### 1. Database Skills:
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,mongodb&perline=5)](https://skillicons.dev)
 
-<span>
-<img width="55" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png">
-</span>  
+### 3. Programming Languages & Tools:
+[![PR Skills](https://skillicons.dev/icons?i=python,js,bootstrap&perline=5)](https://skillicons.dev)
 
+### 4. Web Frameworks:
+[![Web Framework Skills](https://skillicons.dev/icons?i=fastapi,flask,django&perline=5)](https://skillicons.dev)
 
-<span>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/vscode/vscode-original.svg">
-</span>  
+### 5. Development Tools:
+[![Development Tools](https://skillicons.dev/icons?i=pycharm,bash,gitlab&perline=5)](https://skillicons.dev)
+[![Containerization & Orchestration](https://skillicons.dev/icons?i=docker&perline=5)](https://skillicons.dev)
 
-<span>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg">
-</span>  
-
-<span>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg">
-</span>  
-
-<span>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/css3/css3-original.svg">
-</span>  
-
-<span>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/bootstrap/bootstrap-original.svg">
-</span>  
-
-<span>
-<img  width="145" src="https://flask.palletsprojects.com/en/3.0.x/_images/flask-horizontal.png">
-</span>  
+### 6. Other Technologies:
+[![Other Skills](https://skillicons.dev/icons?i=ubuntu,rabbitmq,nginx,sentry,grafana&perline=10)](https://skillicons.dev)
 
 
-<span>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/django/django-plain.svg">
-</span>  
-
-<span>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/sqlite/sqlite-original.svg">
-</span>  
-
-
-<span>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mysql/mysql-original.svg">
-</span>  
-
-<span>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/redis/redis-original.svg">
-</span>  
-
-<span>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/git/git-original.svg">
-</span>  
-
-
-<span>
-<img width="55" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/ubuntu/ubuntu-plain.svg">
-</span>  
 
 ---
 
