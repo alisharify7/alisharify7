@@ -32,7 +32,7 @@ Let’s connect and grow together — feel free to reach out for collaborations,
 ### 1. Database Skills:
 [![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,mongodb&perline=5)](https://skillicons.dev)
 
-<img  style="width: 10%" src="https://private-user-images.githubusercontent.com/39799163/365620432-7e4ff4a6-5732-446b-ad6f-3418f68cd997.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDQxMDM5MDIsIm5iZiI6MTc0NDEwMzYwMiwicGF0aCI6Ii8zOTc5OTE2My8zNjU2MjA0MzItN2U0ZmY0YTYtNTczMi00NDZiLWFkNmYtMzQxOGY2OGNkOTk3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA0MDglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNDA4VDA5MTMyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTVmZWY4MTRhMzk4Y2ZlODI2NjQzYzJiMDE0NTYyYjRmYjQ4NTliOTZiZmQ5OGM3ODVkZGJlYjZiZTI5MzdjOTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.O67wAMDF7uzSrTNHJKo4iIblJtUayHQrRFktrpDnz_Y">
+<img  style="width: 17%" src="https://icons.veryicon.com/png/o/system/asset-management-system/influxdb.png">
 
 ### 3. Programming Languages & Tools:
 [![PR Skills](https://skillicons.dev/icons?i=python,js,bootstrap&perline=5)](https://skillicons.dev)
