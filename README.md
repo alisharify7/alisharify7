@@ -20,9 +20,15 @@ I thrive on challenges and am always curious about exploring and learning new co
 
 Let’s connect and grow together — feel free to reach out for collaborations, discussions, or just to chat about technology! 🚀
 
-[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com)](mailto:alisharifyoffcial@gmail.com)
+
+
+# 💬 Contact
+[![Development Tools](https://skillicons.dev/icons?i=linkedin)](https://ir.linkedin.com/in/ali-sharify-b31422249)
+[![Development Tools](https://skillicons.dev/icons?i=gmail)](mailto:alisharifyofficial@gmail.com)
 
 ![visitors](https://komarev.com/ghpvc/?username=alisharify7gh&label=Profile%20views&color=0e75b6&style=flat)
+
+[//]: # ([![Email Badge]&#40;https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yaronhuang@foxmail.com&#41;]&#40;mailto:alisharifyoffcial@gmail.com&#41;)
 
 
 ---
@@ -30,24 +36,36 @@ Let’s connect and grow together — feel free to reach out for collaborations,
 ## Skill's And Tools :
 
 ### 1. Database Skills:
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,mongodb&perline=5)](https://github.com/alisharify7)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb&perline=5)](https://github.com/alisharify7)
 
-<img  style="width: 55px" src="https://icons.veryicon.com/png/o/system/asset-management-system/influxdb.png">
+<img  style="width: 55px" src="./doc-img/influxdb.png">
+
+- Mysql - Postgres - Redis - sqlite - MongoDB - InfluxDB
 
 ### 3. Programming Languages & Tools:
 [![PR Skills](https://skillicons.dev/icons?i=python,js,bootstrap&perline=5)](https://github.com/alisharify7)
+- Python3 - JavaScript - Bootstrap (CSS-HTML-BOOTSTRAP)
+
 
 ### 4. Web Frameworks:
 [![Web Framework Skills](https://skillicons.dev/icons?i=fastapi,flask,django&perline=5)](https://github.com/alisharify7)
 
-### 5. Development Tools:
-[![Development Tools](https://skillicons.dev/icons?i=pycharm,bash,docker&perline=5)](https://github.com/alisharify7)
+- FastAPI - Flask - Django
 
-<img  style="width: 55px" src="https://gitlab.com/uploads/-/system/project/avatar/11674053/gitlab-ci-cd-logo_2x.png">
+
+### 5. Development Tools:
+[![Development Tools](https://skillicons.dev/icons?i=pycharm,bash,postman,docker&perline=5)](https://github.com/alisharify7)
+
+<img style="width: 55px; display:inline;" src="./doc-img/gitlab-ci-cd-logo_2x.png">
+<img style="width: 85px; display:inline;" src="./doc-img/1_TOluAaqOoEoiibUmmvRyuA.webp">
+
+- Pycharm - BashScripting - Docker - Docker Swarm - Gitlab CI/CD
+
 
 ### 6. Other Technologies:
 [![Other Skills](https://skillicons.dev/icons?i=ubuntu,rabbitmq,nginx,sentry,grafana&perline=10)](https://github.com/alisharify7)
 
+- Ubuntu (LPIC - Linux) - RabbitMQ - Nginx - Sentry - Grafana
 
 
 ---
