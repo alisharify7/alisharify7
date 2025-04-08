@@ -56,8 +56,11 @@ Let’s connect and grow together — feel free to reach out for collaborations,
 ### 5. Development Tools:
 [![Development Tools](https://skillicons.dev/icons?i=pycharm,bash,postman,docker&perline=5)](https://github.com/alisharify7)
 
+
+<div>  
 <img style="width: 55px; display:inline;" src="./doc-img/gitlab-ci-cd-logo_2x.png">
 <img style="width: 85px; display:inline;" src="./doc-img/1_TOluAaqOoEoiibUmmvRyuA.webp">
+</div>
 
 - Pycharm - BashScripting - Docker - Docker Swarm - Gitlab CI/CD
 
