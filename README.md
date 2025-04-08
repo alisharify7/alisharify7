@@ -32,7 +32,7 @@ Let’s connect and grow together — feel free to reach out for collaborations,
 ### 1. Database Skills:
 [![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,mongodb&perline=5)](https://skillicons.dev)
 
-<img  style="width: 17%" src="https://icons.veryicon.com/png/o/system/asset-management-system/influxdb.png">
+<img  style="width: 60px" src="https://icons.veryicon.com/png/o/system/asset-management-system/influxdb.png">
 
 ### 3. Programming Languages & Tools:
 [![PR Skills](https://skillicons.dev/icons?i=python,js,bootstrap&perline=5)](https://skillicons.dev)
