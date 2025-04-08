@@ -30,22 +30,23 @@ Let’s connect and grow together — feel free to reach out for collaborations,
 ## Skill's And Tools :
 
 ### 1. Database Skills:
-[![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,mongodb&perline=5)](https://skillicons.dev)
+[![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,redis,sqlite,mongodb&perline=5)](https://github.com/alisharify7)
 
-<img  style="width: 60px" src="https://icons.veryicon.com/png/o/system/asset-management-system/influxdb.png">
+<img  style="width: 55px" src="https://icons.veryicon.com/png/o/system/asset-management-system/influxdb.png">
 
 ### 3. Programming Languages & Tools:
-[![PR Skills](https://skillicons.dev/icons?i=python,js,bootstrap&perline=5)](https://skillicons.dev)
+[![PR Skills](https://skillicons.dev/icons?i=python,js,bootstrap&perline=5)](https://github.com/alisharify7)
 
 ### 4. Web Frameworks:
-[![Web Framework Skills](https://skillicons.dev/icons?i=fastapi,flask,django&perline=5)](https://skillicons.dev)
+[![Web Framework Skills](https://skillicons.dev/icons?i=fastapi,flask,django&perline=5)](https://github.com/alisharify7)
 
 ### 5. Development Tools:
-[![Development Tools](https://skillicons.dev/icons?i=pycharm,bash,gitlab&perline=5)](https://skillicons.dev)
-[![Containerization & Orchestration](https://skillicons.dev/icons?i=docker&perline=5)](https://skillicons.dev)
+[![Development Tools](https://skillicons.dev/icons?i=pycharm,bash,docker&perline=5)](https://github.com/alisharify7)
+
+<img  style="width: 55px" src="https://gitlab.com/uploads/-/system/project/avatar/11674053/gitlab-ci-cd-logo_2x.png">
 
 ### 6. Other Technologies:
-[![Other Skills](https://skillicons.dev/icons?i=ubuntu,rabbitmq,nginx,sentry,grafana&perline=10)](https://skillicons.dev)
+[![Other Skills](https://skillicons.dev/icons?i=ubuntu,rabbitmq,nginx,sentry,grafana&perline=10)](https://github.com/alisharify7)
 
 
 
