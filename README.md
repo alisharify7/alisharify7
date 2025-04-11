@@ -30,8 +30,10 @@ happy to collaborate on exciting projects!
 # 💬 Contact
 <a href="https://www.ali-sharify.ir/assets/resume-alisharify-software-engineer.pdf">Download my CV</a>
 
-[![Development Tools](https://skillicons.dev/icons?i=linkedin)](https://ir.linkedin.com/in/ali-sharify-b31422249)
-[![Development Tools](https://skillicons.dev/icons?i=gmail)](mailto:alisharifyofficial@gmail.com)
+[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://ir.linkedin.com/in/ali-sharify-b31422249)
+[![Mail](https://skillicons.dev/icons?i=gmail)](mailto:alisharifyofficial@gmail.com)
+
+<a href="https://www.ali-sharify.ir/">ali-sharify.ir</a>
 
 ![visitors](https://komarev.com/ghpvc/?username=alisharify7gh&label=Profile%20views&color=0e75b6&style=flat)
 
