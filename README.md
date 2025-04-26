@@ -20,12 +20,6 @@ I thrive on challenges and am always curious about exploring and learning new co
 
 Let’s connect and grow together — feel free to reach out for collaborations, discussions, or just to chat about technology! 🚀
 
-# 🚀 Open to work
-happy to collaborate on exciting projects!
-
-<img style="width: 300px" src="doc-img/open-to-work.png">
-
-
 
 # 💬 Contact
 <a href="https://www.ali-sharify.ir/resume.html">Download my CV</a>
